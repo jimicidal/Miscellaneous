@@ -1,4 +1,4 @@
-![[C94E22EF-94B5-4233-9689-688E8579CB51.jpeg]]
+![The Loaf](https://github.com/jimicidal/miscellaneous/blob/main/C94E22EF-94B5-4233-9689-688E8579CB51.jpeg?raw=true)
 **Yield:** 2 loaves, 850 g each (1700 g total)
 ## Tools
 - [ ] Kitchen scale in grams
