@@ -1,5 +1,5 @@
 # Everything Everyloaf
-![The Loaf](https://github.com/jimicidal/miscellaneous/blob/main/C94E22EF-94B5-4233-9689-688E8579CB51.jpeg?raw=true)
+![The Loaf](https://github.com/jimicidal/miscellaneous/blob/main/loaf.jpeg?raw=true)
 **Yield:** 2 loaves, 850 g each (1700 g total)
 ## Tools
 - [ ] Kitchen scale in grams
@@ -58,5 +58,5 @@
 	- You can also dampen a flour-sack-type towel with hot water and cover the pans, just watch to make sure it doesn't stick to the dough
 ### Cook it
 - Score the top of each loaf and put more everything bagel seasoning in the cracks
-- Bake for 38 minutes, but not directly on the pizza stone
+- Bake for 35 minutes, but not directly on the pizza stone
 - Take the loaves out of the pans and let them cool completely on a wire rack
