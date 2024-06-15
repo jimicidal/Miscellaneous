@@ -1,5 +1,5 @@
 # Everything Everyloaf
-![The Loaf](https://github.com/jimicidal/miscellaneous/blob/main/loaf.jpeg?raw=true)
+![The Loaf](https://github.com/jimicidal/miscellaneous/blob/main/res/loaf.jpeg?raw=true)
 **Yield:** 2 loaves, 850 g each (1700 g total)
 ## Tools
 - [ ] Kitchen scale in grams
