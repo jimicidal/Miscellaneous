@@ -4,7 +4,7 @@
   - Why: Clean interface, easy to use, wide protocol support. Didn't want to manually maintain a janky HomeSeer or HomeAssistant deployment anymore.
 - **Amazon Echo Dot 4th Gen**
   - URL: https://www.amazon.com/Echo-4th-Gen/dp/B07XKF5RM3
-  - Why: 3.5mm audio jack output to studio monitors.
+  - Why: Voice control. 3.5mm audio jack output to studio monitors.
 
 # Z-wave devices
 - **Enbrighten 700 series outlet**
@@ -20,7 +20,7 @@
 # Zigbee devices
 - **Innr smart plug 15A US type B**
   - URL: https://www.innr.com/en/product/innr-smart-plug-15a-us/
-  - Why: Smaller size and better protocol than the previous WiFi 2.4 GHz plugs we used.
+  - Why: Power meter. Smaller size and better protocol than the previous WiFi 2.4 GHz plugs we used.
 
 # Bluetooth devices
 - **Philips Hue E26 soft warm white model 800**
