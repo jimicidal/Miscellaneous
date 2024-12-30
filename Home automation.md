@@ -25,14 +25,14 @@ Keeping track of the devices I have as I migrate to a new system.
 # Zigbee devices
 - **Innr smart plug 15A US**
   - URL: https://www.innr.com/en/product/innr-smart-plug-15a-us/
-  - Why: Power meter. Smaller size and better protocol than the previous WiFi 2.4 GHz plugs we used.
+  - Why: Power meter. Smaller size and better protocol than the previous Wi-Fi 2.4 GHz plugs we used.
 
 # Bluetooth devices
 - **Philips Hue E26 soft warm white model 800**
   - URL: https://www.philips-hue.com/en-us/p/hue-white-a19-e26-smart-bulb-60-w-4-pack/046677476977#overview
-  - Why: Unfinished basement with not enough light switches.
+  - Why: Unfinished basement does not have enough light switches.
 
-# Wi-fi devices
+# Wi-Fi devices
 - **Ecobee 3 lite thermostat**
   - URL: https://www.ecobee.com/en-us/smart-thermostats/smart-wifi-thermostat/
   - Why: It came with the house.
@@ -50,3 +50,4 @@ Keeping track of the devices I have as I migrate to a new system.
 # Old stuff to replace
 - HomeSeer motion detectors, inside & outside
 - Locks
+- Garage door controller
