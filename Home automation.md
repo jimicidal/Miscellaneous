@@ -26,3 +26,16 @@
 - **Philips Hue E26 soft warm white model 800**
   - URL: https://www.philips-hue.com/en-us/p/hue-white-a19-e26-smart-bulb-60-w-4-pack/046677476977#overview
   - Why: Unfinished basement with not enough light switches.
+
+# Wi-fi devices
+- **Ecobee 3 lite thermostat**
+  - URL: https://www.ecobee.com/en-us/smart-thermostats/smart-wifi-thermostat/
+  - Why: It came with the house.
+ 
+# Tried and failed
+- **Eve Energy Outlet**
+  - URL: https://www.evehome.com/en-us/eve-energy-outlet
+  - Why: Didn't pair with Homey. Wanted the power meter and Matter over Thread.
+ 
+# Old stuff to replace
+- HomeSeer motion detectors, inside & outside
