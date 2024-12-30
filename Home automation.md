@@ -1,3 +1,5 @@
+Keeping track of the devices I have as I migrate to a new system.
+
 # Hubs
 - **Homey Pro early 2023**
   - URL: https://homey.app/en-us/homey-pro/
@@ -5,6 +7,9 @@
 - **Amazon Echo Dot 4th Gen**
   - URL: https://www.amazon.com/Echo-4th-Gen/dp/B07XKF5RM3
   - Why: Voice control. 3.5mm audio jack output to studio monitors.
+- **Lutron Caseta Smart Hub**
+  - URL: https://www.casetawireless.com/us/en/products/expansion-kits-and-smart-bridge/smart-hub-formerly-smart-bridge
+  - Why: Required for the Caseta dimmers
 
 # Z-wave devices
 - **Enbrighten 700 series outlet**
@@ -18,7 +23,7 @@
   - Why: Mostly to poke at. It's currently serving as a range extender.
 
 # Zigbee devices
-- **Innr smart plug 15A US type B**
+- **Innr smart plug 15A US**
   - URL: https://www.innr.com/en/product/innr-smart-plug-15a-us/
   - Why: Power meter. Smaller size and better protocol than the previous WiFi 2.4 GHz plugs we used.
 
@@ -31,6 +36,11 @@
 - **Ecobee 3 lite thermostat**
   - URL: https://www.ecobee.com/en-us/smart-thermostats/smart-wifi-thermostat/
   - Why: It came with the house.
+
+# Other protocols
+- **Lutron Caseta Diva dimmers**
+  - URL: https://www.casetawireless.com/us/en/product/diva-smart-dimmer/homeowner
+  - Why: No neutral wire required.
  
 # Tried and failed
 - **Eve Energy Outlet**
@@ -39,3 +49,4 @@
  
 # Old stuff to replace
 - HomeSeer motion detectors, inside & outside
+- Locks
